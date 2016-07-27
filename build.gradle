@@ -19,6 +19,6 @@ apply plugin: "com.ullink.msbuild"
 
 
 msbuild {
-
-
+solutionFile = 'HelloWrold.sln'
+  projectFile = HelloWrold.csproj'
 		}
